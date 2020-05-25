@@ -9,11 +9,11 @@
 - adresse ip : votre adresse
 - options de connection : clé ssh ppk
 	
-### Production Tools (Ne pas utiliser pour le moment)
+### Production Tools 
 
-- Installer les outils suivants : 
-  - [IntelliJ](https://code.visualstudio.com/download)
-	- [VS Code](https://code.visualstudio.com/download)
-	- [GitHub Desktop](https://help.github.com/en/desktop/getting-started-with-github-desktop/installing-github-desktop)
-	- [Kafka - The Definitive Guide ](https://drive.google.com/)
+  	- [IntelliJ](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC)
+
+### Reference  	
+
+	- [Kafka - The Definitive Guide ](https://drive.google.com/open?id=1pRIPWdPjPzaLt37dt7YvDzJnnLnusNVD)
 - IMPORTANT : L'ouvrage vous est fourni à titre de démo, merci de penser aux auteurs et de l'acheter légalement
