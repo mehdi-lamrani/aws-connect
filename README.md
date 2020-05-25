@@ -12,6 +12,7 @@
 ### Production Tools 
 
 - [IntelliJ 2020 (Windows)](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC)
+- [Create a Github Account] (https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) (If you don't have one)
 
 ### Reference  	
 
