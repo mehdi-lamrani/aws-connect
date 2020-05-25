@@ -11,7 +11,7 @@
 	
 ### Production Tools 
 
-- [IntelliJ](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC)
+- [IntelliJ 2020 (Windows)](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC)
 
 ### Reference  	
 
