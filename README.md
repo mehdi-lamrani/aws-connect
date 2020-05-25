@@ -11,9 +11,9 @@
 	
 ### Production Tools 
 
-  	- [IntelliJ](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC)
+- [IntelliJ](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC)
 
 ### Reference  	
 
-	- [Kafka - The Definitive Guide ](https://drive.google.com/open?id=1pRIPWdPjPzaLt37dt7YvDzJnnLnusNVD)
+- [Kafka - The Definitive Guide](https://drive.google.com/open?id=1pRIPWdPjPzaLt37dt7YvDzJnnLnusNVD)
 - IMPORTANT : L'ouvrage vous est fourni à titre de démo, merci de penser aux auteurs et de l'acheter légalement
